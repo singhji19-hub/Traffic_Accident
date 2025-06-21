@@ -1,0 +1,9 @@
+ Traffic data analysis
+
+1. Understand data sets - done
+2. cleaning datasets  - done
+3. EDA - done
+4. Statitical analysis
+5. Visualization
+6. Insights generation
+7. Report & share
